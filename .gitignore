@@ -2,3 +2,5 @@ __pycache__
 env/
 
 rasa_core.log
+
+models

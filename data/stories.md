@@ -29,4 +29,7 @@
 * thanks
  - utter_thanks
 * goodbye
- - utter_goodbye 
+ - utter_goodbye ## Generated Story 7269154559649932669
+* greet
+    - utter_name
+
